@@ -1,0 +1,1522 @@
+.navbar-left {
+  background-color: rgb(233, 219, 190);
+}
+
+.nav-part1 {
+  text-decoration: none;
+  color: black;
+  font-size: 23px;
+  margin-left: 0.2%;
+  margin-right: 0.2%;
+  padding: 0.2%;
+}
+
+.nav-part2 {
+  text-decoration: none;
+  color: black;
+  font-size: 23px;
+  margin-left: 0.7%;
+  margin-right: 0.7%;
+  padding: 0.7%;
+}
+
+.nav-part3 {
+  text-decoration: none;
+  color: black;
+  font-size: 23px;
+  margin-left: 0.7%;
+  margin-right: 0.7%;
+  padding: 0.7%;
+}
+
+.nav-part4 {
+  text-decoration: none;
+  color: black;
+  font-size: 23px;
+  margin-left: 0.7%;
+  margin-right: 0.7%;
+  padding: 0.7%;
+}
+
+.nav-part5 {
+  padding: 5px;
+  position: relative;
+  left: 1000px;
+}
+
+.logo {
+  width: 7%;
+  height: 7%;
+  position: relative;
+  left: 10%;
+
+}
+
+.navbar-left a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.dropmenu-1 {
+  position: absolute;
+  left: 69%;
+  top: 2.3%;
+}
+
+.dropmenu-2 {
+  position: absolute;
+  left: 89%;
+  top: 2.3%;
+}
+
+
+.dropdown-menu {
+  background-color: rgb(3, 3, 3);
+  width: 500px;
+  text-align: center;
+}
+
+.dropdown-item1 {
+
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+  text-align: center !important;
+}
+
+.Log-button {
+  height: 6%;
+  width: 6%;
+  position: absolute;
+  left: 88%;
+  top: 7.9%;
+  border-color: rgb(12, 17, 1);
+  background-color: rgb(17, 12, 12);
+  color: #ddd;
+  text-decoration: none;
+}
+
+.nav-item::marker {
+  visibility: hidden !important;
+}
+
+
+/* home css */
+
+.home-main {
+  background-color: rgb(233, 219, 190);
+}
+
+
+.homg-bg {
+  display: flex;
+  height: 80%;
+  width: 126.6%;
+  background-repeat: no-repeat;
+}
+
+.hometxt-1 {
+  font-family: fantasy;
+  color: rgb(11, 11, 10);
+  font-size: 70px;
+  position: relative;
+  bottom: 48%;
+  left: 17%;
+}
+
+.hometxt-2 {
+  font-family: cursive;
+  color: black;
+  font-size: 70px;
+  position: relative;
+  bottom: 40%;
+  left: -3%;
+  font-weight: bold;
+}
+
+.hometxt-3 {
+  font-size: 80px;
+  text-align: center;
+  font-family: initial;
+  position: relative;
+  bottom: 77px;
+  text-decoration: underline;
+  color: #174271;
+  font-weight: bolder;
+
+}
+
+.part-1 {
+  margin-top: 10px;
+  margin-bottom: 60px;
+}
+
+.part-2 {
+  margin-top: 70px;
+  margin-bottom: 60px;
+}
+
+.part-3 {
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+
+.carousel-inner {
+  height: 300px;
+}
+
+.slide-img {
+  display: flex;
+  height: 300px;
+  background-size: cover;
+}
+
+.slide-img {
+  display: flex;
+  height: 300px;
+  background-size: cover;
+
+}
+
+.slide-img1 {
+  display: flex;
+  height: 300px;
+  width: 550px;
+  background-size: cover;
+
+}
+
+.slide-img2 {
+  display: flex;
+  height: 300px;
+  width: 550px;
+  background-size: cover;
+}
+
+
+.head-wedding {
+  font-size: 50px;
+  text-align: center;
+  color: brown;
+  font-family: sans-serif;
+  font-weight: bold;
+
+}
+
+.desc-wedding {
+  padding: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+}
+
+.head-dj {
+  font-size: 50px;
+  text-align: center;
+  color: brown;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.desc-dj {
+  padding: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+}
+
+.head-party {
+  font-size: 50px;
+  text-align: center;
+  color: brown;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.desc-party {
+  padding: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+}
+
+.footer
+{
+  margin: 2%;
+  text-align: center;
+  font-size: 150%;
+}
+
+
+
+
+/* Login page css  */
+
+.login-bg {
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100VH;
+  width: 100%;
+
+}
+
+.logsquare-box {
+  width: 40%;
+  height: 62%;
+  background-color: rgb(180, 208, 196);
+  border: 2px solid #04567f;
+  border-radius: 40px;
+  position: absolute;
+  top: 18%;
+  left: 12%;
+}
+
+.logcontainer {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.logtxt-1 {
+  margin-top: 2%;
+  text-align: center;
+  font-size: 200%;
+}
+
+#logbox1 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.logtxt-2 {
+  font-size: 150%;
+  text-align: center;
+  margin-top: 3%;
+}
+
+
+
+.logtxt-3 {
+  margin-top: 3%;
+  font-size: 130%;
+  width: 70%;
+  height: 15%;
+  border-radius: 20px;
+  position: relative;
+  top: 11%;
+  left: 16%;
+}
+
+.logtxt-5 {
+  font-size: 130%;
+  width: 70%;
+  height: 15%;
+  border-radius: 20px;
+  position: relative;
+  top: 21%;
+  left: 16%;
+}
+
+::placeholder {
+  text-align: left;
+
+}
+
+.logtxt-6 {
+  font-size: 120%;
+  height: 9%;
+  width: 25%;
+  border-radius: 10px;
+  position: absolute;
+  top: 69%;
+  right: 40%;
+  background-color: #f2f6f8;
+  color: #000000;
+}
+
+.log-icon1 {
+
+  position: absolute;
+  right: 72.5%;
+  top: 32.9%;
+  margin: 2%;
+  height: 11.6%;
+  padding: 2%;
+}
+
+.log-icon2 {
+  position: absolute;
+  right: 73.2%;
+  top: 50.1%;
+  margin: 2%;
+  height: 11.6%;
+  padding: 2%;
+
+}
+
+.logtxt-7 {
+  font-size: 130%;
+  color: red;
+  position: absolute;
+  bottom: 11%;
+  left: 24%;
+}
+
+.logtxt-8 {
+  font-size: 120%;
+  position: relative;
+  bottom: 3%;
+  left: 27%;
+}
+
+
+
+
+
+/* Signup css/ */
+
+
+
+
+
+.signup-bg {
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  filter: blur(6px);
+}
+
+.signsquare-box {
+
+
+  width: 50%;
+  height: 77%;
+  background-color: rgb(183, 203, 219);
+  border: 4px solid #04567f;
+  border-radius: 9%;
+  position: absolute;
+  right: 25%;
+  top: 10%;
+}
+
+.signcontainer {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.signtxt-1 {
+  display: flex;
+  justify-content: center;
+  font-size: 200%;
+  margin-bottom: 4%;
+}
+
+#signbox1 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.signtxt-2 {
+  font-size: 100%;
+  width: 40%;
+  height: 15%;
+  position: relative;
+  left: 6%;
+  margin-top: 1%;
+  border-radius: 20px;
+}
+
+.signtxt-3 {
+  font-size: 100%;
+  width: 40%;
+  height: 15%;
+  position: relative;
+  left: 50%;
+  bottom: 14.7%;
+  border-radius: 20px;
+  margin-top: 1%;
+}
+
+.signtxt-7 {
+  font-size: 100%;
+  width: 84%;
+  height: 15%;
+  position: relative;
+  left: 6%;
+  bottom: 9%;
+  border-radius: 20px;
+  margin-top: 1%;
+}
+
+.signtxt-8 {
+  font-size: 100%;
+  width: 84%;
+  height: 15%;
+  position: relative;
+  left: 6%;
+  bottom: 4%;
+  border-radius: 20px;
+  margin-top: 1%;
+  padding-left: 9%;
+}
+
+.signtxt-4 {
+  font-size: 100%;
+  width: 84%;
+  height: 15%;
+  position: relative;
+  left: 6%;
+  bottom: -1%;
+  border-radius: 20px;
+  margin-top: 1%;
+}
+
+.signtxt-5 {
+  font-size: 100%;
+  width: 84%;
+  height: 15%;
+  position: relative;
+  left: 6%;
+  bottom: -5%;
+  border-radius: 20px;
+  margin-top: 1%;
+}
+
+.signtxt-6 {
+  font-size: 100%;
+  width: 84%;
+  height: 15%;
+  position: relative;
+  left: 6%;
+  bottom: 13%;
+  border-radius: 20px;
+  margin-top: 1%;
+}
+
+
+.signtxt-9 {
+  font-size: 100%;
+  width: 19%;
+  height: 15%;
+  position: relative;
+  left: 40%;
+  bottom: -12%;
+  border-radius: 20px;
+  margin-top: 1%;
+  background-color: #fffefe;
+}
+
+.sign-icon1 {
+  position: absolute;
+  left: 5%;
+  bottom: 30.5%;
+  margin: 2%;
+  height: 11%;
+  padding: 2%;
+}
+
+::placeholder {
+  color: rgb(154, 140, 140);
+
+}
+
+input[type="text" i] {
+  padding-block: 1px;
+  padding-inline: 70px;
+}
+
+input[type="password" i] {
+  padding-block: 1px;
+  padding-inline: 70px;
+
+}
+
+
+.sign-icon2 {
+  position: absolute;
+  left: 5%;
+  bottom: 15.9%;
+  margin: 2%;
+  height: 11%;
+  padding: 2%;
+}
+
+.sign-icon3 {
+  position: absolute;
+  left: 5%;
+  bottom: 21.7%;
+  margin: 2%;
+  height: 11%;
+  padding: 2%;
+}
+
+.sign-icon4 {
+  position: absolute;
+  left: 5%;
+  bottom: 58.5%;
+  margin: 2%;
+  height: 11%;
+  padding: 2%;
+}
+
+.sign-icon5 {
+  position: absolute;
+  left: 5%;
+  bottom: 44.7%;
+  margin: 2%;
+  height: 11%;
+  padding: 2%;
+}
+
+.signtxt-10 {
+  font-size: 100%;
+  width: 84%;
+  height: 15%;
+  position: relative;
+  left: 34%;
+  bottom: -20%;
+  border-radius: 20px;
+
+}
+
+/* Event Planner form */
+
+
+.form-bg {
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  filter: blur(2px);
+  overflow: hidden;
+}
+
+.formsquare-box {
+  width: 50%;
+  height: 90%;
+  background-color: #28282B;
+  border: 4px solid black;
+  box-shadow: #000000;
+  border-radius: 9%;
+  position: absolute;
+  right: 39%;
+  top: 5%;
+
+}
+
+.formcontainer {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.formtxt-1 {
+  margin-top: 1%;
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  color: azure;
+  margin-bottom: 25px;
+}
+
+#formbox1 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.formtxt-2 {
+  font-size: 100%;
+  width: 84.5%;
+  height: 15%;
+  position: relative;
+  left: 6%;
+  margin-top: 1%;
+  border-radius: 14px;
+
+}
+
+.formtxt-3 {
+  font-size: 100%;
+  width: 40%;
+  height: 15%;
+  position: relative;
+  left: 10%;
+  border-radius: 14px;
+  margin-top: 1%;
+}
+
+.formtxt-4 {
+  font-size: 100%;
+  width: 84.5%;
+  height: 15%;
+  border-radius: 14px;
+  position: relative;
+  top: 5%;
+  left: 6%;
+}
+
+.formtxt-5 {
+
+  padding-left: 9%;
+  font-size: 100%;
+  width: 84.5%;
+  height: 15%;
+  border-radius: 14px;
+  position: relative;
+  top: 10%;
+  left: 6%;
+}
+
+.formtxt-6 {
+  font-size: 100%;
+  width: 84.5%;
+  height: 15%;
+  border-radius: 14px;
+  position: relative;
+  top: 15%;
+  left: 6%;
+}
+
+.formtxt-7 {
+  font-size: 100%;
+  width: 84.5%;
+  height: 15%;
+  border-radius: 14px;
+  position: relative;
+  top: 20%;
+  left: 6%;
+}
+
+.formtxt-8 {
+  padding-left: 9%;
+  font-size: 100%;
+  width: 84.5%;
+  height: 15%;
+  border-radius: 14px;
+  position: relative;
+  top: 25%;
+  left: 6%;
+}
+
+.formtxt-9 {
+  font-size: 100%;
+  width: 84.5%;
+  height: 15%;
+  border-radius: 14px;
+  position: relative;
+  top: 30%;
+  left: 6%;
+}
+
+.formtxt-10 {
+  font-size: 100%;
+  width: 84.5%;
+  height: 15%;
+  border-radius: 14px;
+  position: relative;
+  top: 35%;
+  left: 6%;
+}
+
+.formtxt-11 {
+  font-size: 100%;
+  width: 15%;
+  height: 16%;
+  border-radius: 24px;
+  position: relative;
+  top: 60.4%;
+  right: 55%;
+}
+
+.formtxt-14 {
+  font-size: 100%;
+  width: 15%;
+  height: 16%;
+  border-radius: 24px;
+  position: relative;
+  top: 44.7%;
+  left: 50%;
+}
+
+
+
+
+
+.formtxt-12 {
+  font-size: 100%;
+  width: 84.5%;
+  height: 15%;
+  border-radius: 14px;
+  position: relative;
+  top: 40.3%;
+  left: 6%;
+}
+
+::placeholder {
+  color: rgb(91, 88, 88);
+}
+
+input[type="text" i] {
+  text-align: left;
+}
+
+/* viewplanner css */
+
+
+
+
+
+
+.viewplanner-bg {
+  background-image: url('../images/plannerview-bg.avif');
+  display: flex;
+  height: 100vh;
+  width: 208vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: left;
+  justify-content: center;
+  overflow-x: hidden;
+}
+
+.viewplanner-lable1 {
+  margin: 3%;
+  position: absolute;
+  bottom: 600px;
+  left: 600px;
+}
+
+.viewplanner-box1 {
+  width: 32%;
+  border-radius: 10px;
+  position: absolute;
+  left: 850px;
+  top: 58px;
+
+}
+
+.viewplanner-lable2 {
+  margin: 3%;
+  position: absolute;
+  left: 600px;
+  bottom: 558px;
+}
+
+.viewplanner-box2 {
+  width:  32%;
+  border-radius: 10px;
+  margin-left: 29px;
+  position: absolute;
+  left: 822px;
+  top: 105px;
+}
+
+.viewplanner-lable3 {
+  margin: 3%;
+  position: absolute;
+  left: 600px;
+  bottom: 510px;
+}
+
+.viewplanner-box3 {
+  text-align: center;
+  width:  32%;
+  border-radius: 10px;
+  position: absolute;
+  left: 850px;
+  top: 153px;
+  padding-right: 20%;
+}
+
+
+.viewplanner-lable4 {
+  margin: 3%;
+  position: absolute;
+  left: 600px;
+  bottom: 460px;
+}
+
+.viewplanner-box4 {
+  width:  32%;
+  border-radius: 10px;
+  position: absolute;
+  left: 850px;
+  top: 200px;
+}
+
+.viewplanner-lable5 {
+  margin: 3%;
+  position: absolute;
+  bottom: 410px;
+  left: 600px;
+
+}
+
+.viewplanner-box5 {
+  height: 90px;
+  width:  32%;
+  border-radius: 10px;
+  position: absolute;
+  left: 850px;
+  top: 243px;
+  padding-left: 5%;
+}
+
+.viewplanner-lable6 {
+  margin: 3%;
+  position: absolute;
+  left: 600px;
+  bottom: 314px;
+}
+
+.viewplanner-box6 {
+  width:  32%;
+  border-radius: 10px;
+  position: absolute;
+  left: 850px;
+  top: 350px;
+
+}
+
+.viewplanner-lable7 {
+  margin: 3%;
+  position: absolute;
+  left: 600px;
+  bottom: 260px;
+}
+
+.viewplanner-box7 {
+  width:  32%;
+  border-radius: 10px;
+  position: absolute;
+  left: 850px;
+  top: 400px;
+  padding-left: 5%;
+}
+
+.viewplanner-lable8 {
+  margin: 3%;
+  position: absolute;
+  left: 600px;
+  bottom: 210px;
+}
+
+.viewplanner-box8 {
+  width:  32%;
+  border-radius: 10px;
+  position: absolute;
+  left: 850px;
+  top: 445px;
+}
+
+.viewplanner-lable9 {
+  margin: 3%;
+  position: absolute;
+  left: 600px;
+  bottom: 170px;
+}
+
+.viewplanner-box9 {
+  width:  32%;
+  border-radius: 10px;
+  position: absolute;
+  left: 850px;
+  top: 490px;
+}
+
+.viewplanner-lable10 {
+  margin: 3%;
+  position: absolute;
+  left: 600px;
+  bottom: 100px;
+}
+
+.viewplanner-box10 {
+  width:  32%;
+  border-radius: 10px;
+  position: absolute;
+  left: 850px;
+  top: 550px;
+}
+
+.viewplanner-lable11 {
+  margin: 3%;
+  position: absolute;
+  left: 600px;
+  bottom: 50px;
+}
+
+.viewplanner-box11 {
+  width: 280px;
+  border-radius: 10px;
+  position: absolute;
+  left: 850px;
+  top: 600px;
+}
+
+.btn-view {
+  width: 4%;
+  height: 5%;
+  position: absolute;
+  bottom: 20%;
+  left: 69%;
+  border: 3px solid black;
+  border-radius: 30px;
+}
+
+
+
+
+
+
+
+/* viewUserProfile  */
+
+
+.profilesquare-box {
+  margin-top: 4%;
+  width: 550px;
+  height: 60%;
+  background-color: rgb(182, 197, 202);
+  border: 2px solid #131313;
+  border-radius: 40px;
+  position: absolute;
+  left: 32.5%;
+  top: 10%;
+}
+
+.username-view
+{
+  margin-top: 27%;
+  margin-left: 2%;
+  /* padding: 2%; */
+ 
+  position: absolute;
+  /* bottom: 82%; */
+  left: 7%;
+  
+}
+
+.profile-image {
+  padding: 7%;
+  margin-top: 3%;
+  margin-bottom: 4%;
+  width: 20%;
+  height: 20%;
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+  border: 2px solid #080808;
+  box-shadow: 0 0 40px rgba(47, 45, 45, 0.8);
+  position: relative;
+  left: 38%;
+  background-image: url('../images/djnight-1.jpg');
+}
+
+.img-name {
+  margin-left: 4%;
+  height: 32px;
+  width: 47%;
+  margin-bottom: 2%;
+  border: 1px solid #080808;
+  border-radius: 10px;
+  position: absolute;
+  bottom: 50%;
+  left: 26%;
+}
+
+.profile-name1 {
+  margin-top: 17%;
+  margin-left: 2%;
+  padding: 2%;
+  border-radius: 2px solid black;
+  border-radius: 30px;
+}
+
+.profile-box1 {
+  margin-left: 9%;
+  padding: 2%;
+  border-radius: 2px solid black;
+  border-radius: 10px;
+  width: 65%;
+}
+
+.profile-name2 {
+  margin-top: 17%;
+  margin-left: 2%;
+  padding: 2%;
+  border-radius: 2px solid black;
+  border-radius: 30px;
+  position: relative;
+  bottom: 52%;
+}
+
+.profile-box2 {
+  position: relative;
+  bottom: 52%;
+  margin-left: 12%;
+  padding: 2%;
+  border-radius: 2px solid black;
+  border-radius: 10px;
+  width: 66%;
+}
+
+.profile-name3 {
+  margin-top: 17%;
+  margin-left: 2%;
+  padding: 2%;
+  border-radius: 2px solid black;
+  border-radius: 30px;
+  position: relative;
+  bottom: 102%;
+}
+
+.profile-box3 {
+  position: relative;
+  bottom: 102%;
+  margin-left: 5%;
+  padding: 2%;
+  border-radius: 2px solid black;
+  border-radius: 10px;
+  width: 63%;
+}
+
+.profile-viewbg {
+  background-image: url('../images/show-profile-bg.avif');
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn-userview {
+  width: 4%;
+  height: 5%;
+  position: absolute;
+  bottom: 24%;
+  left: 48%;
+  border: 3px solid black;
+  border-radius: 15px;
+}
+
+
+/* ABOUT-US PAGE  */
+
+.head-ab {
+  text-align: center;
+  color: white;
+  font-family: fantasy;
+  margin-bottom: 10%;
+}
+
+.txt-ab {
+  font-size: 500%;
+}
+
+.about-bg {
+  background-color: #000000;
+  height: 100%;
+  width: 100%;
+
+}
+
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  box-sizing: border-box;
+}
+
+.image-container {
+  flex: 1 1 400px;
+  margin-right: 2rem;
+  margin-bottom: 8%;
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+.text-container {
+  flex: 1 1 60%;
+}
+
+.text-container h1 {
+  color: #fff;
+  font-size: 2.5rem;
+  margin-bottom: 2%;
+}
+
+.text-container p {
+  color: #ddd;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+
+
+
+
+/* ADD EVENT CSS */
+
+
+
+
+.add-eventbg {
+  background-image: url('../images/ADD-eventbg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.add-main {
+  padding: 1%;
+  margin: 2%;
+  color: white;
+}
+
+.addevent-h1 {
+  text-align: center;
+  color: white;
+  padding: 2%;
+}
+
+.add-box1 {
+  margin-left: 3%;
+  border-color: 8px solid rgb(17, 17, 17);
+  border-radius: 10px;
+}
+
+.addevent-h2 {
+  text-align: center;
+  margin-left: 1.5%;
+  margin-top: 1%;
+  border-color: 8px solid rgb(17, 17, 17);
+  border-radius: 10px;
+}
+
+.add-tittle1 {
+  margin-left: 26%;
+}
+
+.add-tittle2 {
+  margin-top: 1%;
+  margin-left: 6%;
+}
+
+.add-box2 {
+  width: 15%;
+  margin-left: 2%;
+  border-color: 8px solid rgb(17, 17, 17);
+  border-radius: 10px;
+}
+
+.add-box3 {
+  width: 35%;
+  margin-left: 2%;
+  border-color: 8px solid rgb(17, 17, 17);
+  border-radius: 10px;
+  padding-left: 2%;
+}
+
+.addevent-h3 {
+  color: white;
+  margin-left: 45%;
+  font-size: 130%;
+}
+
+.delete-bt {
+  background-color: rgb(177, 61, 61);
+}
+
+.task-del-grid {
+  margin-left: 1%;
+}
+
+.addtask-1 {
+  width: 80%;
+  margin-left: 10%;
+  background-image: url('../images/abcd.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.add-taskname1 {
+  color: white;
+
+}
+
+.add-tasknamebox1 {
+  width: 70%;
+  margin-left: 3%;
+  border-color: 2px solid black;
+  border-radius: 10px;
+  padding-left: -6%;
+}
+
+.add-tasknamebox2 {
+  width: 50%;
+  margin-left: 3%;
+  padding-left: 2%;
+  border-color: 2px solid black;
+  border-radius: 10px;
+}
+
+.add-tasknamebox3 {
+  width: 50%;
+  margin-left: 3%;
+  border-color: 2px solid black;
+  border-radius: 10px;
+}
+
+.add-tasknamebox4 {
+  width: 60%;
+  margin-left: 3%;
+  border-color: 2px solid black;
+  border-radius: 10px;
+}
+
+.add-tasknamebox5 {
+  width: 50%;
+  margin-left: 3%;
+  padding-left: 2%;
+  border-color: 2px solid black;
+  border-radius: 10px;
+}
+
+.add-taskname2 {
+  color: white;
+  margin-left: 34.5%;
+}
+
+.add-tasknamebox6 {
+  width: 35%;
+  margin-left: 3%;
+  padding-left: 2%;
+  border-color: 2px solid black;
+  border-radius: 10px;
+}
+
+
+.view-tasknamebox2 {
+  width: 70%;
+  margin-left: 3%;
+  padding-left: 2%;
+  border-color: 2px solid black;
+  border-radius: 10px;
+}
+
+.view-tasknamebox5 {
+  width: 50%;
+  margin-left: 3%;
+  padding-left: 2%;
+  border-color: 2px solid black;
+  border-radius: 10px;
+}
+
+.view-tasknamebox6 {
+  width: 55%;
+  margin-left: 1%;
+  padding-left: 2%;
+  border-color: 2px solid black;
+  border-radius: 10px;
+}
+
+.view-taskname2 {
+  color: white;
+  
+}
+
+
+/* EVENT LIST */
+
+.event-listbg
+{
+  background-image: url('../images/event-listing-bg.avif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 85.3vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.event-listname
+{
+  padding: 2%;
+}
+
+
+/* PLANNER LIST */
+
+.planner-listbg
+{
+  background-image: url('../images/planner-list-bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 85.3vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+
+/* Signin Validation messages */
+
+.validate-1{
+  font-size: small;
+  color: red;
+  position: relative;
+  left: 1%;
+  top: -90%;
+  width: 40%;
+  z-index: 2;
+}
+
+.validate-2{
+  font-size: small;
+  color: red;
+  position: relative;
+  left: 60%;
+  top: -94.5%;
+  width: 200%;
+  z-index: 2;
+}
+
+.validate-3{
+  font-size: small;
+  color: red;
+  position: relative;
+  left: 10%;
+  top: -84%;
+  z-index: 2;
+}
+
+.validate-4{
+  font-size: small;
+  color: red;
+  position: relative;
+  left: 10%;
+  top: -74%;
+  z-index: 2;
+}
+
+.validate-5{
+  font-size: small;
+  color: red;
+  position: relative;
+  left: 2%;
+  width: 200%;
+  top: -50%;
+  z-index: 2;
+}
+
+/* Task Validation Messages */
+
+
+.eventValidate-1{
+  font-size: small;
+  color: red;
+  position: relative;
+  left: 10%;
+  top: 15%;
+  width: 40%;
+  z-index: 4;
+}
+
+.eventValidate-2{
+  font-size: small;
+  color: red;
+  position: relative;
+  left: 40%;
+  top: 14%;
+  width: 40%;
+  z-index: 4;
+}
+
+.eventValidate-3{
+  font-size: small;
+  color: red;
+  position: relative;
+  left: 64%;
+  top: 15%;
+  width: 40%;
+  z-index: 4;
+}
+
+.eventValidate-4{
+  font-size: small;
+  color: red;
+  position: relative;
+  left: 19%;
+  top: 9%;
+  width: 40%;
+  z-index: 4;
+}
+
+.eventValidate-5{
+  font-size: small;
+  color: red;
+  position: relative;
+  left: 28%;
+  top: 9%;
+  width: 40%;
+  z-index: 4;
+}
+
+.eventValidate-6{
+  font-size: small;
+  color: red;
+  position: relative;
+  left: 32%;
+  top: 9%;
+  width: 40%;
+  z-index: 4;
+}
+
+.eventValidate-7{
+  font-size: small;
+  color: red;
+  position: relative;
+  left: 15%;
+  top: 5%;
+  width: 40%;
+  z-index: 4;
+}
+
+.eventValidate-8{
+  font-size: small;
+  color: red;
+  position: relative;
+  left: 40%;
+  top: 10%;
+  width: 40%;
+  z-index: 4;
+}
+
+.eventValidate-9{
+  font-size: small;
+  color: red;
+  position: relative;
+  left: 56%;
+  top: 11%;
+  width: 40%;
+  z-index: 4;
+}
+

@@ -1,0 +1,30 @@
+{
+    "welcome_message": "Getting welcome message successfully.",
+    "error_message": "An error occurred while processing the request.",
+    "500_error": "An error occurred while processing the request.",
+    "404_error": "Page not found.",
+    "planner": {
+        "list": "planner listing successfully.",
+        "fetch": "Successfully retrieved the planner.",
+        "create": "planner created successfully.",
+        "update": "planner updated successfully.",
+        "delete": "planner deleted successfully.",
+        "not_found": "planner not found."
+    },
+    "event": {
+        "list": "planner listing successfully.",
+        "fetch": "Successfully retrieved the planner.",
+        "create": "planner created successfully.",
+        "update": "planner updated successfully.",
+        "delete": "planner deleted successfully.",
+        "not_found": "planner not found."
+    },
+    "user": {
+        "list": "user listing successfully.",
+        "fetch": "Successfully retrieved the user.",
+        "create": "user created successfully.",
+        "update": "user updated successfully.",
+        "delete": "user deleted successfully.",
+        "not_found": "user not found."
+    }
+}
